@@ -1,0 +1,20 @@
+{
+  "name": "custom-logger",
+  "version": "1.0.0",
+  "description": "A simple and configurable logging package for Node.js applications, providing support for various log levels (info, warn, error). Easily customize the log level to match your environment and logging needs.",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalmajumdar95/custom-logger.git"
+  },
+  "keywords": ["logger", "logging", "nodejs"],
+  "author": "Vishal Majumdar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalmajumdar95/custom-logger/issues"
+  },
+  "homepage": "https://github.com/vishalmajumdar95/custom-logger#readme"
+}
